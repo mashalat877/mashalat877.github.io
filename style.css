@@ -9,3 +9,9 @@
 body {
     font-family: 'Vazirmatn', sans-serif;
 }
+
+/* This simple code will work for all users */
+body {
+    background-color: #ffffff; /* A pure white background */
+    color: #000000;      /* Pure black text */
+}
